@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Yandex Sans Text";
+  src: local("Yandex Sans Text Regular"), local("YandexSansText-Regular"),
+    url("./../fonts/YandexSansText-Regular.woff2") format("woff2"),
+    url("./../fonts/YandexSansText-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Yandex Sans Text";
+  src: local("Yandex Sans Text Light"), local("YandexSansText-Light"),
+    url("./../fonts/YandexSansText-Light.woff2") format("woff2"),
+    url("./../fonts/YandexSansText-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
