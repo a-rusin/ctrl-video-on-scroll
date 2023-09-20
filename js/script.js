@@ -7,7 +7,7 @@ canvas.width = 1158;
 canvas.height = 770;
 
 const frameCount = 101;
-const currentFrame = (index) => `./../img/hero-seq/kukumber_${index.toString().padStart(5, "0")}.png`;
+const currentFrame = (index) => `./img/hero-seq/kukumber_${index.toString().padStart(5, "0")}.png`;
 
 const images = [];
 const airpods = {
